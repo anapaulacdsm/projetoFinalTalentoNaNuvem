@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:darkolivegreen;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+header {
+    background-color:darkgray;
+    text-align: center;
+    padding: 20px;
+    color:black;
+
+}
+
+.navbar li {
+    text-align: left;
+    color:black
+}
+
+button {
+    margin-top: 15px;
+    background-color: aliceblue;
+
+}
+
+@media (max-width: 768px) {
+    .navbar ul {
+        flex-direction: ;
+    }
+}
